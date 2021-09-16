@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Zijun Ye
-=======
+
 Thulam Tran
->>>>>>> d1e9f28e23aeba30f4914e455925c68819f108ca
